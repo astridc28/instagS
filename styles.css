@@ -1,0 +1,21 @@
+.insta-container {
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #fafafa;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.post img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.post p {
+  font-size: 1.1em;
+  margin-top: 10px;
+  color: #333;
+}
